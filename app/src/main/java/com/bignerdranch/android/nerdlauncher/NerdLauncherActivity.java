@@ -9,5 +9,5 @@ public class NerdLauncherActivity extends SingleFragmentActivity {
     protected Fragment createFragment() {
         return NerdLauncherFragment.newInstance();
     }
-
+//测试提交到GitHub
 }
